@@ -30,7 +30,7 @@ char *copy_info(char *name, char *value)
  * _reallocdp - resize block
  * @name: name of the environment variable
  * @value: value of the environment variable
- * @datash: data structure (environ) 
+ * @datash: data structure (environ)
  * Return: no return
  */
 
