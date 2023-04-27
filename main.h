@@ -230,5 +230,10 @@ void aux_help_cd(void);
 
 /* get_help.c */
 int get_help(data_shell *datash);
+void aux_help_setenv(void);
+void aux_help_env(void);
+void aux_help_unsetenv(void);
+void aux_help_general(void);
+void aux_help_exit(void);
 
 #endif

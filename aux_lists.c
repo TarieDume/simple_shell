@@ -92,5 +92,6 @@ while ((temp = curr) != NULL)
 curr = curr->next;
 free(temp);
 }
-*head = NULL;}
+*head = NULL;
+}
 }
